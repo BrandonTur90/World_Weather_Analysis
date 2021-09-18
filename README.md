@@ -13,7 +13,7 @@ showing routes from 4 different cities in the northeastern region of the US.
 ## Example Charts and Maps
 
                                     Lat Vs Max Temp
-![Fig1](/weather_data/fig1.png)
+![fig1](/weather_data/Fig1.png)
 
 
                                 Weather Map with Map Markers
